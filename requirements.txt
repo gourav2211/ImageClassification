@@ -1,0 +1,10 @@
+requests
+pandas
+numpy
+flask_restful
+keras
+tensorflow
+urllib3
+opencv-python
+graphviz
+flask
